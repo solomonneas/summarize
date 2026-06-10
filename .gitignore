@@ -14,3 +14,7 @@ _pack
 *.zip
 apps/chrome-extension/test-results
 /slides/
+
+# Local brigade memory (cards are local-only, never committed)
+/memory/
+.brigade/
